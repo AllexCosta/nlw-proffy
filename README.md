@@ -2,8 +2,6 @@
   <img src="https://ik.imagekit.io/AllexCosta/NextLevelWeek_2_pES9cT_ja.svg" width="150" >
 </p>
 
-<div align="center">
-
 ## 📋 Índice
 
 - [Sobre](#-Sobre)
